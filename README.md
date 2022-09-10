@@ -1,2 +1,2 @@
-# Xray_images_pneumonia_classification
+# Xray_MobileNetV2_pneumonia_classification
 Medical images classification of disease
